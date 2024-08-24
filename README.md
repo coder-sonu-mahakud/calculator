@@ -1,6 +1,6 @@
 # Calculator
 
-Calculator by using HTML, CSS.
+Calculator by using HTML, CSS, JavaScript.
 
 
 ## Authors
@@ -9,7 +9,7 @@ Calculator by using HTML, CSS.
 
   
 ## 🛠 Skills
-HTML, CSS....
+HTML, CSS, JavaScript....
 
 ## 🚀 About Me
 I'M Sonu Mahakud and I'M a Web Developer.
